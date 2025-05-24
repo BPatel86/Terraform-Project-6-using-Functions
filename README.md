@@ -1,0 +1,1 @@
+# Terraform-Project-6-Condition-Local-Variable
